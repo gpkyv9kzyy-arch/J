@@ -79,5 +79,4 @@ If the background does not appear:
 2.  **Restart VS Code** after applying settings.
 3.  Ignore the "Corrupted Installation" warning (this is normal for background extensions).
 
-## 📄 License
-[MIT](LICENSE) © Antigravity
+
