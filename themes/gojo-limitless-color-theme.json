@@ -1,0 +1,149 @@
+{
+    "name": "Gojo Limitless",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#090b10",
+        "editor.foreground": "#d4f2ff",
+        "activityBar.background": "#090b10",
+        "activityBar.foreground": "#00dbff",
+        "activityBar.activeBorder": "#00dbff",
+        "sideBar.background": "#0b0e14",
+        "sideBar.foreground": "#a0aab5",
+        "sideBarSectionHeader.background": "#090b10",
+        "statusBar.background": "#00bfff",
+        "statusBar.foreground": "#090b10",
+        "titleBar.activeBackground": "#090b10",
+        "titleBar.activeForeground": "#ffffff",
+        "editorCursor.foreground": "#00e6ff",
+        "editor.lineHighlightBackground": "#00bfff10",
+        "editor.selectionBackground": "#00bfff30",
+        "editorLineNumber.foreground": "#495569",
+        "editorLineNumber.activeForeground": "#00dbff",
+        "tab.activeBackground": "#0b0e14",
+        "tab.activeBorderTop": "#00dbff",
+        "tab.inactiveBackground": "#090b10",
+        "tab.activeForeground": "#ffffff",
+        "list.activeSelectionBackground": "#00bfff20",
+        "list.activeSelectionForeground": "#ffffff",
+        "list.hoverBackground": "#00bfff10",
+        "input.background": "#0d1117",
+        "input.border": "#30363d",
+        "terminal.background": "#090b10",
+        "terminal.foreground": "#d4f2ff",
+        "widget.shadow": "#00000080"
+    },
+    "tokenColors": [
+        {
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#5c6773",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#00dbff",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "string",
+                "string.quoted"
+            ],
+            "settings": {
+                "foreground": "#7fffd4"
+            }
+        },
+        {
+            "scope": [
+                "constant.numeric",
+                "constant.language"
+            ],
+            "settings": {
+                "foreground": "#e0b0ff"
+            }
+        },
+        {
+            "scope": [
+                "variable",
+                "meta.parameter"
+            ],
+            "settings": {
+                "foreground": "#d4f2ff"
+            }
+        },
+        {
+            "scope": [
+                "variable.language",
+                "variable.other.object"
+            ],
+            "settings": {
+                "foreground": "#1e90ff",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.function",
+                "support.function"
+            ],
+            "settings": {
+                "foreground": "#e0f7fa",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.type",
+                "support.class",
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#1e90ff",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "entity.other.attribute-name"
+            ],
+            "settings": {
+                "foreground": "#7fffd4"
+            }
+        },
+        {
+            "scope": [
+                "markup.heading"
+            ],
+            "settings": {
+                "foreground": "#00dbff",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "markup.inserted"
+            ],
+            "settings": {
+                "foreground": "#7fffd4"
+            }
+        },
+        {
+            "scope": [
+                "markup.deleted"
+            ],
+            "settings": {
+                "foreground": "#ff4d6d"
+            }
+        }
+    ]
+}

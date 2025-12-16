@@ -1,0 +1,27 @@
+{
+    "name": "gojo-limitless",
+    "displayName": "Gojo Limitless",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/antigravity/gojo-limitless"
+    },
+    "description": "Master your code with the Six Eyes. A high-contrast dark theme inspired by Satoru Gojo, featuring deep infinite void blues and electric cyan accents.",
+    "version": "1.0.0",
+    "publisher": "antigravity",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gojo Limitless",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gojo-limitless-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png"
+}
